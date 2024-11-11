@@ -1,0 +1,54 @@
+.heading{
+    background-color: blue;
+}
+
+/* stylings for box */
+.assessment{
+    background-color: white ;
+    height: 50px;
+}
+
+.box{
+    border: 2px dotted black;
+    height: 250px;
+    width: 250px;
+
+}
+
+.color{
+    background-color: violet;
+    height: 150px;
+    width: 250px;
+}
+/* end of stylings for box */
+.assessment{
+    background-color: white ;
+    height: 50px;
+    font-size: 25px;
+}
+.box1{
+    border: 2px dotted black;
+    height: 250px;
+    width: 250px;   
+}
+.color4{
+    background-color: rgb(8, 191, 75);
+    height: 150px;
+    width: 250px;  
+}
+
+.color2{
+    background-color: pink;
+    height: 150px;
+    width: 250px;
+}
+
+.color3{
+    background-color: yellow;
+    height: 150px;
+    width: 250px;
+}
+.west{
+    height: 50px;
+    font-size: 25px;
+}
